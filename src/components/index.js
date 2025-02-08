@@ -1,0 +1,6 @@
+export * from './icons'
+export { default as BaseButton } from './BaseButton.vue'
+export { default as BaseToast } from './BaseToast.vue'
+export { default as BalanceWidget } from './BalanceWidget.vue'
+export { default as UserOnboarding } from './UserOnboarding.vue'
+export { default as HowItWorks } from './HowItWorks.vue'

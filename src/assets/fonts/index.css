@@ -1,0 +1,5 @@
+@font-face {
+  font-family: 'Open Runde';
+  src:  url('OpenRunde-Semibold.woff2') format('woff2'),
+        url('OpenRunde-Semibold.woff') format('woff');
+}
